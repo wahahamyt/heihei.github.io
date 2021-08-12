@@ -1,14 +1,7 @@
-## ISTD
+## Publications
 
-#### Benchmark code(Matlab):
+[1] Balance Control for the First-order Inverted Pendulum Based on the Advantage Actor-critic Algorithm[J]. International Journal of Control Automation and Systems, 2020(7).
 
-The benchmark code includes the test data (3 sequences * 25 images) for cross-validation. So you can evaluate the detector directly by using the proposed benchmark. If you want to reproduce the results, please delete the `results` folder and rerun `run_experiment.m`.
-- [Baiduyun Disk](https://pan.baidu.com/s/), Code: 88og  
-- [Google Drive](https://drive.google.com/file/d//view?usp=sharing)
+[2] Wasserstein Distance-Based Auto-Encoder Tracking[J]. Neural Processing Letters, 2021, 53(3):2305-2329.
 
-#### Full test data:
-
-The test data includes three sequences and annotations. Each sequence has 100 infrared images
-- [Baiduyun Disk](https://pan.baidu.com/s/-g), Code: j2gf
-
-- [Google Drive](https://drive.google.com/file/d/1kDp--CInUGVpw/view?usp=sharing)
+[3] Xu Long, Wei Ying, Shang Sheng-Xing, Zhang Hao-Yun, Bian Jie, Xu Chu-Qiao. Design of asynchronous correlation discriminant single object tracker based on siamese network. Acta Automatica Sinica, 2020, 46(x): 1−19 doi:  10.16383/j.aas.c200237
